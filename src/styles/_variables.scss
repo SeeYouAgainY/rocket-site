@@ -1,0 +1,25 @@
+:root {
+  --color-green: #18c576;
+  --hover-color-green: #128752;
+  --color-white: #fff;
+  --color-gray: #f2f2f2;
+  --color-orange: #ffa726;
+  --color-purple: #ac59f1;
+
+  --border: none;
+  --border-radius-large: 50px;
+  --border-radius-small: 5px;
+
+  --background-fading: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.3) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
+
+  --container-width: 1200px;
+
+  --font-family-base: "Inter", sans-serif;
+
+  --button-height: 32px;
+  --button-height-small: 23px;
+}

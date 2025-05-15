@@ -1,0 +1,15 @@
+body {
+  font-family: var(--font-family-base);
+  font-weight: 600;
+  font-size: 12px;
+  color: var(--color-white);
+  background-color: var(--color-white);
+  max-width: 1440px;
+}
+
+button,
+input,
+textarea,
+svg * {
+  transition-duration: 0.3s;
+}
